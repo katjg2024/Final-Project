@@ -24,8 +24,7 @@ To run the analysis scripts and notebooks, ensure you have the following Python 
 ## Files
 - `cybersecurity.csv`: CSV file containing the raw cybersecurity attack data.
 
-## Usage
-1. **Data Cleaning and Preparation:** Use `analysis_script.py` to clean and preprocess the dataset.
+
 
 ## Results
 The analysis reveals insights such as:
